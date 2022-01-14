@@ -1,0 +1,4 @@
+name: NoWaterDragon
+version: '${project.version}'
+main: com.bilicraft.nowaterdragon.NoWaterDragon
+api-version: 1.18
